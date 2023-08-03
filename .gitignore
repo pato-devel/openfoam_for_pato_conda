@@ -1,5 +1,5 @@
 *.sparsebundle
-local_volume
+*_volume
 .idea
 .vs
 debug/*
