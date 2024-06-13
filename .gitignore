@@ -1,4 +1,4 @@
-pato_releases_conda.sparsebundle
+*.sparsebundle
 local_volume
 .idea
 .vs
